@@ -1,0 +1,1130 @@
+aconnect - ALSA sequencer connection manager
+acpi_listen - ACPI event listener
+adb - android debug bridge
+addpart - simple wrapper around the "add partition" ioctl
+addr2line - convert addresses into file names and line numbers.
+alsaloop - command-line PCM loopback
+alsamixer - soundcard mixer for ALSA soundcard driver, with ncurse...
+amidi - read from and write to ALSA RawMIDI ports
+amixer - command-line mixer for ALSA soundcard driver
+apg - generates several random passwords
+apgbfm - APG Bloom filter management program
+aplay - command-line sound recorder and player for ALSA soundc...
+aplaymidi - play Standard MIDI Files
+apport-bug - file a bug report using Apport, or update an existing ...
+apport-cli - Apport user interfaces for reporting problems
+apport-collect - file a bug report using Apport, or update an existing ...
+apport-unpack - extract the fields of a problem report to separate files
+appres - list X application resource database
+apropos - search the manual page names and descriptions
+apt - command-line interface
+apt-cache - query the APT cache
+apt-cdrom - APT CD-ROM management utility
+apt-config - APT Configuration Query program
+aptdcon - command line client for aptdaemon
+apt-ftparchive - Utility to generate index files
+apt-get - APT package handling utility - - command-line interface
+apt-key - APT key management utility
+apt-mark - mark/unmark a package as being automatically-installed
+apt-sortpkgs - Utility to sort package index files
+apturl - graphical apt-protocol interpreting package installer
+apturl-gtk - graphical apt-protocol interpreting package installer
+ar - create, modify, and extract from archives
+arch - print machine hardware name (same as uname -m)
+arecord - command-line sound recorder and player for ALSA soundc...
+arecordmidi - record Standard MIDI Files
+arm2hpdl - Add HP download header/trailer to an ARM ELF binary.
+arping - send ARP REQUEST to a neighbour host
+as - the portable GNU assembler.
+aseqdump - show the events received at an ALSA sequencer port
+aseqnet - ALSA sequencer connectors over network
+aspell - interactive spell checker
+aspell-import - import old personal dictionaries into GNU Aspell
+atobm - bitmap editor and converter utilities for the X Window...
+avahi-browse - Browse for mDNS/DNS-SD services using the Avahi daemon
+awk - pattern scanning and text processing language
+axi-cache - query the Apt Xapian Index
+baobab - A graphical tool to analyze disk usage
+base64 - base64 encode/decode data and print to standard output
+basename - parse pathname components
+basename - strip directory and suffix from filenames
+bashbug - report a bug in bash
+bc - An arbitrary precision calculator language
+bdftopcf - convert X font from Bitmap Distribution Format to Port...
+bdftruncate - generate truncated BDF font from ISO 10646-1-encoded B...
+bitmap - bitmap editor and converter utilities for the X Window...
+bluetooth-agent - Bluetooth pass agent
+bmtoa - bitmap editor and converter utilities for the X Window...
+brasero - Simple and easy to use CD/DVD burning application for ...
+bsd-from - print names of those who have sent mail
+bsdtar - manipulate tape archives
+bsd-write - send a message to another user
+btcflash - firmware flash utility for BTC DRW1008 DVD+/-RW recorder.
+c++ - GNU project C and C++ compiler
+c2ph - Dump C structures as generated from "cc - g - S" stabs
+c89 - ANSI (1989) C compiler
+c89-gcc - ANSI (1989) C compiler
+c99 - ANSI (1999) C compiler
+c99-gcc - ANSI (1999) C compiler
+cal - displays a calendar and the date of Easter
+calendar - reminder service
+calibrate_ppa - pnm2ppa calibration tool
+cancel - cancel jobs
+captoinfo - convert a termcap description into a terminfo description
+catchsegv - Catch segmentation faults in programs
+catman - create or update the pre-formatted manual pages
+cc - GNU project C and C++ compiler
+c++filt - Demangle C++ and Java symbols.
+chacl - change the access control list of a file or directory
+chage - change user password expiry information
+chardet - universal character encoding detector
+charmap - character symbols to define character encodings
+charmap - Unicode character picker and font browser
+chattr - change file attributes on a Linux file system
+chcon - change file security context
+checkbox - CheckBoxNG Documentation
+checkbox-cli - CheckBoxNG Documentation
+cheese - tool to take pictures and videos from your webcam
+chfn - change real user name and information
+chkdupexe - find duplicate executables
+chrt - manipulate the real-time attributes of a process
+chsh - change login shell
+ciptool - Bluetooth Common ISDN Access Profile (CIP)
+ckbcomp - compile a XKB keyboard description to a keymap suitabl...
+cksum - checksum and count the bytes in a file
+clear - clear the terminal screen
+clear_console - clear the console
+cmp - compare two files byte by byte
+codepage - extract a codepage from an MSDOS codepage file
+col - filter reverse line feeds from input
+colcrt - filter nroff output for CRT previewing
+colormgr - Color Manager Testing Tool
+colrm - remove columns from a file
+column - columnate lists
+combinediff - create a cumulative unified patch from two incremental...
+comm - compare two sorted files line by line
+compiz - OpenGL window and compositing manager
+Compose - X client mappings for multi-key input sequences
+compose - execute programs via entries in the mailcap file
+config_data - Query or change configuration of Perl modules
+corelist - a commandline frontend to Module::CoreList
+cpan - easily interact with CPAN from the command line
+cpan2dist - The CPANPLUS distribution creator
+cpanp - The CPANPLUS launcher
+cpp - The C Preprocessor
+cpp-4.8 - The C Preprocessor
+crc32 - compute CRC-32 checksums for the given files
+crontab - tables for driving cron
+crontab - maintain crontab files for individual users (Vixie Cron)
+csplit - split a file into sections determined by context lines
+ctstat - unified linux network statistics
+cups-calibrate - ESP CUPS Printer Calibration Tool
+cupstestdsc - test conformance of postscript files
+cupstestppd - test conformance of ppd files
+curl - transfer a URL
+cut - remove sections from each line of files
+cvt - calculate VESA CVT mode lines
+dbus-launch - Utility to start a message bus from a shell script
+dbus-monitor - debug probe to print message bus messages
+dbus-send - Send a message to a message bus
+dbwrap_tool - low level TDB/CTDB manipulation tool using the dbwrap ...
+dc - an arbitrary precision calculator
+dconf - A configuration systen
+dconf - Simple tool for manipulating a dconf database
+ddate - convert Gregorian dates to Discordian dates
+deallocvt - deallocate unused virtual consoles
+debconf - run a debconf-using program
+debconf-escape - helper when working with debconf's escape capability
+debconf-show - query the debconf database
+dehtmldiff - get usable diff from an HTML page
+deja-dup - manual page for deja-dup 30.0
+delpart - simple wrapper around the "del partition" ioctl
+devdump - Utility programs for dumping and verifying iso9660 ima...
+dfutool - Device Firmware Upgrade utility
+dh_pypy - calculates PyPy dependencies, adds maintainer scripts ...
+dh_python2 - calculates Python dependencies, adds maintainer script...
+dh_python3 - calculates Python dependencies, adds maintainer script...
+dialog - widgets and utilities for the program
+dialog - display dialog boxes from shell scripts
+diff - compare files line by line
+diff3 - compare three files line by line
+diffstat - make histogram from diff-output
+dig - DNS lookup utility
+dircolors - color setup for ls
+dirname - parse pathname components
+dirname - strip last component from file name
+dirsplit - splits directory into multiple with equal size
+dm-tool - a tool to control the display manager
+dotlockfile - Utility to manage lockfiles
+dpkg - package manager for Debian
+dpkg-buildflags - returns build flags to use during package build
+dpkg-deb - Debian package archive (.deb) manipulation tool
+dpkg-divert - override a package's version of a file
+dpkg-genchanges - generate Debian .changes files
+dpkg-gencontrol - generate Debian control files
+dpkg-gensymbols - generate symbols files (shared library dependency info...
+dpkg-name - rename Debian packages to full package names
+dpkg-query - a tool to query the dpkg database
+dpkg-shlibdeps - generate shared library substvar dependencies
+dpkg-source - Debian source package (.dsc) manipulation tool
+dpkg-split - Debian package archive split/join tool
+dpkg-trigger - a package trigger utility
+dpkg-vendor - queries information about distribution vendors
+du - estimate file space usage
+dumpkeys - dump keyboard translation tables
+duplicity - Encrypted incremental backup to local or remote storage.
+dvd-ram-control - checks features of DVD-RAM discs
+dvd+rw-booktype - format DVD+-RW/-RAM disk with a logical format
+dvd+rw-format - format DVD+-RW/-RAM disk
+dvipdf - Convert TeX DVI file to PDF using ghostscript and dvips
+dwp - The DWARF packaging utility
+edit - execute programs via entries in the mailcap file
+editdiff - fix offsets and counts of a hand-edited diff
+editor - Nano's ANOther editor, an enhanced free Pico clone
+editres - a dynamic resource editor for X Toolkit applications
+eject - eject removable media
+elfedit - Update the ELF header of ELF files.
+empathy - GNOME multi-protocol chat and call client
+enchant - a spellchecker
+enchant-lsmod - Show information about available spell-checking module...
+env - run a program in a modified environment
+envsubst - substitutes environment variables in shell format strings
+eog - a GNOME image viewer
+eps2eps - Ghostscript PostScript "distiller"
+eqn - format equations for troff or MathML
+esc-m - ease viewing output of driver data
+evince - GNOME document viewer
+ex - Vi IMproved, a programmers text editor
+expand - convert tabs to spaces
+expiry - check and enforce password expiration policy
+expr - evaluate expressions
+factor - factor numbers
+faillog - login failure logging file
+faillog - display faillog records or set login failure limits
+faked-sysv - daemon that remembers fake ownership/permissions of fi...
+faked-tcp - daemon that remembers fake ownership/permissions of fi...
+fakeroot - run a command in an environment faking root privileges...
+fakeroot-sysv - run a command in an environment faking root privileges...
+fakeroot-tcp - run a command in an environment faking root privileges...
+fallocate - manipulate file space
+fallocate - preallocate space to a file
+fc-cache - build font information cache files
+fc-cat - read font information cache files
+fc-list - list available fonts
+fc-match - match available fonts
+fc-pattern - parse and show pattern
+fc-query - query font files
+fc-scan - scan font files or directories
+fc-validate - validate font files
+file-event - event signalling that a file has changed
+file - determine file type
+file-roller - archive manager for GNOME
+filterdiff - extract or exclude diffs from a diff file
+find - search for files in a directory hierarchy
+find2perl - translate find command lines to Perl code
+firefox - a free and open source web browser from Mozilla
+fixcvsdiff - fix problematic diff files
+fix-qdf - repair PDF files in QDF form after editing
+flipdiff - exchange the order of two incremental patches
+flock - apply or remove an advisory lock on an open file
+flock - manage locks from shell scripts
+fmt - simple optimal text formatter
+fold - wrap each input line to fit in specified width
+font2c - Write PostScript Type 0 or Type 1 font as C code
+fonttosfnt - Wrap a bitmap font in a sfnt (TrueType) wrapper
+foo2hbpl2 - Convert Ghostscript pbmraw or bitcmyk format into a ZJ...
+foo2hp - Convert Ghostscript pbmraw or bitcmyk format into a ZJ...
+foo2lava - Convert Ghostscript pbmraw or bitcmyk format into a LA...
+foo2oak - Convert Ghostscript pbmraw, pgmraw or bitcmyk format i...
+foo2qpdl - Convert Ghostscript pbmraw or bitcmyk format into a QP...
+foo2slx - Convert Ghostscript pbmraw or bitcmyk format into a SL...
+foo2slx-wrapper - Convert Postscript into a SLX printer stream
+foo2xqx - Convert Ghostscript pbmraw into a XQX printer stream
+foo2xqx-wrapper - Convert Postscript into a XQX printer stream
+foo2zjs - Convert Ghostscript pbmraw or bitcmyk format into a ZJ...
+foo2zjs-icc2ps - little cms PostScript converter.
+foo2zjs-pstops - Add PS code for foo2*-wrapper
+foo2zjs-wrapper - Convert Postscript into a ZJS printer stream
+free - allocate and free dynamic memory
+free - Display amount of free and used memory in the system
+from - print names of those who have sent mail
+fslsfonts - list fonts served by X font server
+fstobdf - generate BDF font from X font server
+ftp - Internet file transfer program
+funzip - filter for extracting from a ZIP archive in a pipe
+g++ - GNU project C and C++ compiler
+g++-4.8 - GNU project C and C++ compiler
+gamma4scanimage - create a gamma table for scanimage
+gcalccmd - a console calculator
+gcc - GNU project C and C++ compiler
+gcc-4.8 - GNU project C and C++ compiler
+gcc-ar-4.8 - a wrapper around ar adding the - plugin option
+gcc-nm-4.8 - a wrapper around nm adding the - plugin option
+gcc-ranlib-4.8 - a wrapper around ranlib adding the - plugin option
+gconftool - GNOME configuration tool
+gconftool-2 - GNOME configuration tool
+gcore - Generate a core file of a running program
+gcov - coverage testing tool
+gcov-4.8 - coverage testing tool
+gdb - The GNU Debugger
+gdbus - Tool for working with D-Bus objects
+gedit - text editor for the GNOME Desktop
+gencat - Generate message catalog
+genisoimage - create ISO9660/Joliet/HFS filesystem with optional Roc...
+geqn - format equations for troff or MathML
+getconf - Query system configuration variables
+geteltorito - an El Torito boot image extractor
+getent - get entries from Name Service Switch libraries
+getfacl - get file access control lists
+gethostip - convert an IP address into various formats
+getkeycodes - print kernel scancode-to-keycode mapping table
+getopt - Parse command-line options
+getopt - parse command options (enhanced)
+gettext - translate message
+gettext - translate message
+gettextize - install or upgrade gettext infrastructure
+ghostscript - Ghostscript (PostScript and PDF language interpreter a...
+gimp - an image manipulation and paint program.
+gimp-2.8 - an image manipulation and paint program.
+gimp-console - an image manipulation and paint program.
+ginstall-info - update info/dir entries
+gipddecode - Decode a GIPD stream into human readable form.
+git - the stupid content tracker
+git-shell - Restricted login shell for Git-only SSH access
+git-upload-pack - Send objects packed back to git-fetch-pack
+gnome-disks - the GNOME Disks application
+gnome-help - browse system documentation
+gold - The GNU ELF linker
+gpasswd - administer /etc/group and /etc/gshadow
+gpg - OpenPGP encryption and signing tool
+gpgsplit - Split an OpenPGP message into packets
+gpgv - Verify OpenPGP signatures
+gpg-zip - encrypt or sign files into an archive
+gpic - compile pictures for troff or TeX
+gprof - display call graph profile data
+grepdiff - show files modified by a diff containing a regex
+gresource - GResource tool
+groff - front-end for the groff document formatting system
+grog - guess options for groff command
+grops - PostScript driver for groff
+grotty - groff driver for typewriter-like devices
+groups - print the groups a user is in
+growisofs - combined genisoimage frontend/DVD recording program.
+grub-editenv - edit GRUB environment block
+grub-file - check file type
+grub-fstest - debug tool for GRUB filesystem drivers
+grub-glue-efi - generate a fat binary for EFI
+grub-kbdcomp - generate a GRUB keyboard layout file
+grub-mkfont - make GRUB font files
+grub-mkimage - make a bootable image of GRUB
+grub-mklayout - generate a GRUB keyboard layout file
+grub-mknetdir - prepare a GRUB netboot directory.
+grub-mkrelpath - make a system path relative to its root
+grub-mkrescue - make a GRUB rescue image
+grub-mount - export GRUB filesystem with FUSE
+gs - Ghostscript (PostScript and PDF language interpreter a...
+gsbj - Format and print text for BubbleJet printer using ghos...
+gsdj - Format and print text for DeskJet printer using ghosts...
+gsdj500 - Format and print text for DeskJet 500 BubbleJet using ...
+gsettings - GSettings configuration tool
+gslj - Format and print text for LaserJet printer using ghost...
+gslp - Format and print text using ghostscript
+gsnd - Run ghostscript (PostScript and PDF engine) without di...
+gst-inspect-1.0 - print info about a GStreamer plugin or element
+gst-install - installs missing GStreamer plugins
+gst-launch-0.10 - build and run a GStreamer pipeline
+gst-launch-1.0 - build and run a GStreamer pipeline
+gst-play-1.0 - Simple command line playback testing tool
+gtbl - format tables for troff
+gtf - calculate VESA GTF mode lines
+gtk-launch - Launch an application
+gucharmap - Unicode character picker and font browser
+gvfs-cat - Concatenate files
+gvfs-copy - Copy files
+gvfs-info - Show information about files
+gvfs-ls - List files
+gvfs-mime - Get or set mime handlers
+gvfs-mkdir - Create directories
+gvfs-mount - Mounts the locations
+gvfs-move - Copy files
+gvfs-open - Open files with the default handler
+gvfs-rename - Rename a file
+gvfs-rm - Delete files
+gvfs-save - Save standard input
+gvfs-tree - List contents of directories in a tree-like format
+h2ph - convert .h C header files to .ph Perl header files
+h2xs - convert .h C header files to Perl extensions
+hardening-check - check binaries for security hardening features
+hbpldecode - Decode a HBPL stream into human readable form.
+hcitool - configure Bluetooth connections
+hd - MFM/IDE hard disk devices
+hd - ASCII, decimal, hexadecimal, octal dump
+head - output the first part of files
+helpztags - generate the help tags file for directory
+hexdump - ASCII, decimal, hexadecimal, octal dump
+hipercdecode - Decode a HIPERC stream into human readable form.
+host - DNS lookup utility
+hostid - print the numeric identifier for the current host
+hostnamectl - Control the system hostname
+hp-align - Printer Cartridge Alignment Utility
+hp-check - Dependency/Version Check Utility
+hp-clean - Printer Cartridge Cleaning Utility
+hp-colorcal - Printer Cartridge Color Calibration Utility
+hp-firmware - Firmware Download Utility
+hp-info - Device Information Utility
+hp-levels - Supply Levels Utility
+hp-makeuri - Device URI Creation Utility
+hp-pkservice - Policy Kit Service
+hp-plugin - Plugin Download and Install Utility
+hp-probe - Printer Discovery Utility
+hp-query - Model Query Utility
+hp-scan - Scan Utility
+hp-setup - Printer/Fax Setup Utility
+hp-testpage - Testpage Print Utility
+hp-timedate - Time/Date Utility
+hp-unload - Photo Card Access Utility
+i386 - change reported architecture in new program environmen...
+ibus - command line utility for ibus
+ibus-daemon - daemon program for ibus
+ibus-setup - configuration program for ibus
+iceauth - ICE authority file utility
+ico - animate an icosahedron or other polyhedron
+iconv - perform character set conversion
+iconv - Convert encoding of given files from one encoding to a...
+id - print real and effective user and group IDs
+iecset - Set or dump IEC958 status bits
+im-config - set up input method configuration for X Window System
+im-launch - launch input method end execute session program
+info - readable online documentation
+info - read Info documents
+infobrowser - read Info documents
+infocmp - compare or print out terminfo descriptions
+infokey - compile customizations for Info
+infotocap - convert a terminfo description into a termcap description
+init-checkconf - manual page for init-checkconf
+initctl2dot - manual page for initctl2dot
+inputattach - attach a serial line to an input-layer device
+install - copy files and set attributes
+install-info - wrapper around GNU install-info
+instmodsh - A shell to examine installed modules
+intel_gpu_top - Display a top-like summary of Intel GPU usage
+intel_gtt - Dump the contents of an Intel GPU's GTT
+intel_reg_read - Reads an Intel GPU register value
+intel_reg_write - Set an Intel GPU register to a value
+intel_stepping - Display the stepping information for an Intel GPU
+interdiff - show differences between two diff files
+ionice - set or get process I/O scheduling class and priority
+ipcmk - create various ipc resources
+ipcrm - remove a message queue, semaphore set or shared memory id
+ipcs - provide information on ipc facilities
+ippfind - find internet printing protocol printers
+ipptool - perform internet printing protocol requests
+iproxy - proxy that enables tcp service access to iPhone/iPod
+iptables-xml - Convert iptables-save format to XML
+ischroot - detect if running in a chroot
+isodump - Utility programs for dumping and verifying iso9660 ima...
+isohybrid - Postprocess ISO images for hybrid mode
+isohybrid.pl - Postprocess ISO images for hybrid mode (Perl)
+isoinfo - Utility programs for dumping and verifying iso9660 ima...
+isovfy - Utility programs for dumping and verifying iso9660 ima...
+ispell-wrapper - smart wrapper for ispell
+join - join lines of two files on a common field
+json_pp - JSON::PP command utility
+kbdinfo - obtain information about the status of a console
+killall - kill processes by name
+koi8rxterm - X terminal emulator for KOI8-R environments
+l2ping - Send L2CAP echo request and receive answer
+l2test - L2CAP testing
+last - show listing of last logged in users
+lastb - show listing of last logged in users
+lastlog - reports the most recent login of all users or of a giv...
+lavadecode - Decode a LAVAFLOW stream into human readable form.
+lcf - Determine which of the historical versions of a config...
+ld - The GNU linker
+ld.bfd - The GNU linker
+ldd - print shared library dependencies
+ld.gold - The GNU ELF linker
+less - opposite of more
+lessecho - expand metacharacters
+lessfile - "input preprocessor" for less.
+lesskey - specify key bindings for less
+lesspipe - "input preprocessor" for less.
+lexgrog - parse header information in man pages
+libnetcfg - configure libnet
+libreoffice - LibreOffice office suite
+line - read one line
+link - make a new name for a file
+link - call the link function to create a link to a file
+lintian - Static analysis tool for Debian packages
+lintian-info - give detailed information about Lintian's error tags
+linux32 - change reported architecture in new program environmen...
+linux64 - change reported architecture in new program environmen...
+listres - list resources in widgets
+lnstat - unified linux network statistics
+loadkeys - load keyboard translation tables
+loadunimap - load the kernel unicode-to-font mapping table
+localc - LibreOffice office suite
+locale - describes a locale definition file
+locale - description of multilanguage support
+locale - Get locale-specific information.
+localectl - Control the system locale and keyboard layout settings
+localedef - compile locale definition files
+locate - find files by name
+lockfile-check - command-line programs to safely lock and unlock files ...
+lockfile-create - command-line programs to safely lock and unlock files ...
+lockfile-remove - command-line programs to safely lock and unlock files ...
+lockfile-touch - command-line programs to safely lock and unlock files ...
+lodraw - LibreOffice office suite
+loffice - LibreOffice office suite
+lofromtemplate - LibreOffice office suite
+logger - a shell command interface to the syslog(3) system log ...
+logname - print user's login name
+loimpress - LibreOffice office suite
+lomath - LibreOffice office suite
+look - display lines beginning with a given string
+lorder - list dependencies for object files
+loweb - LibreOffice office suite
+lowriter - LibreOffice office suite
+lp - line printer devices
+lp - print files
+lpoptions - display or set printer options and defaults
+lppasswd - add, change, or delete digest passwords.
+lpq - show printer queue status
+lpr - print files
+lprm - cancel print jobs
+lpstat - print cups status information
+lsattr - list file attributes on a Linux second extended file s...
+lsb_release - print distribution-specific information
+lscpu - display information on CPU architecture
+lsdiff - show which files are modified by a patch
+lshw - list hardware
+lsinitramfs - list content of an initramfs image
+lsof - list open files
+lspci - list all PCI devices
+lspgpot - extracts the ownertrust values from PGP keyrings and l...
+lss16toppm - Convert an LSS-16 image to PPM
+lsusb - list USB devices
+ltrace - A library call tracer
+luit - Locale and ISO 2022 support for Unicode terminals
+lxterm - locale-sensitive wrapper for xterm
+lz - gunzips and shows a listing of a gzip'd tar'd archive
+lzcat - Compress or decompress .xz and .lzma files
+lzcmp - compare compressed files
+lzdiff - compare compressed files
+lzegrep - search compressed files for a regular expression
+lzfgrep - search compressed files for a regular expression
+lzgrep - search compressed files for a regular expression
+lzless - view xz or lzma compressed (text) files
+lzma - Compress or decompress .xz and .lzma files
+lzmainfo - show information stored in the .lzma file header
+lzmore - view xz or lzma compressed (text) files
+mail-lock - command-line programs to safely lock and unlock files ...
+mail-touchlock - command-line programs to safely lock and unlock files ...
+mail-unlock - command-line programs to safely lock and unlock files ...
+make - GNU make utility to maintain groups of programs
+man - macros to format man pages
+man - an interface to the on-line reference manuals
+mandb - create or update the manual page index caches
+manhole - Connect to a Twisted Manhole service
+manpath - format of the /etc/manpath.config file
+manpath - determine search path for manual pages
+mapscrn - load screen output mapping table
+mattrib - change MSDOS file attribute flags
+mawk - pattern scanning and text processing language
+mbadblocks - tests a floppy disk, and marks the bad blocks in the FAT
+mcat - dump raw disk image
+mcd - change MSDOS directory
+mcheck - heap consistency checking
+mcheck - verify all files on an MS-DOS formatted disk
+mcomp - Compares two files using mtools
+mcookie - generate magic cookies for xauth
+mcopy - copy MSDOS files to/from Unix
+mc-tool - manipulate Mission Control accounts from the command line
+md5pass - Create an MD5 password hash
+md5sum - compute and check MD5 message digest
+mdel - delete an MSDOS file
+mdeltree - recursively delete an MSDOS directory and its contents
+mdir - display an MSDOS directory
+mdu - display the amount of space occupied by an MSDOS direc...
+memdiskfind - utility to search for a MEMDISK instance
+mencoder - movie encoder
+mesg - control write access to your terminal
+mformat - add an MSDOS filesystem to a low-level formatted flopp...
+mimeopen - Open files by mimetype
+mimetype - Determine file type
+min12xxw - Convert pbmraw streams to Minolta PagePro 12xxW languages
+minfo - print the parameters of a MSDOS filesystem
+mkdiskimage - Create a blank MS-DOS formatted hard disk image
+mkfifo - make a FIFO special file (a named pipe)
+mkfifo - make FIFOs (named pipes)
+mkfontdir - create an index of X font files in a directory
+mkfontscale - create an index of scalable font files for X
+mkmanifest - makes list of file names and their DOS 8+3 equivalent
+mk_modmap - translate a Linux keytable file into an xmodmap file
+mkzftree - Create a zisofs/RockRidge compressed file tree
+mlabel - make an MSDOS volume label
+mlocate - find files by name
+mmcli - Control and monitor the ModemManager
+mmd - make an MSDOS subdirectory
+mmount - mount an MSDOS disk
+mmove - move or rename an MSDOS file or subdirectory
+mousetweaks - Accessibility enhancements for pointing devices
+MP4Box - MPEG-4 Systems Toolbox
+MP4Client - GPAC MPEG-4 command-line Player
+mpartition - partition an MSDOS hard disk
+mplayer - movie player
+mrd - remove an MSDOS subdirectory
+mren - rename an existing MSDOS file
+mscompress - compress data using LZ77 algorithm
+msexpand - decompress data compressed using mscompress(1) or COMP...
+msgattrib - attribute matching and manipulation on message catalog
+msgcat - combines several message catalogs
+msgcmp - compare message catalog and template
+msgcomm - match two message catalogs
+msgconv - character set conversion for message catalog
+msgen - create English message catalog
+msgexec - process translations of message catalog
+msgfilter - edit translations of message catalog
+msgfmt - compile message catalog to binary format
+msggrep - pattern matching on message catalog
+msginit - initialize a message catalog
+msgmerge - merge message catalog and template
+msgunfmt - uncompile message catalog from binary format
+msguniq - unify duplicate translations in message catalog
+mshowfat - shows FAT clusters allocated to file
+mtools - mtools configuration files
+mtools - utilities to access DOS disks in Unix.
+mtoolstest - tests and displays the configuration
+mtr - a network diagnostic tool
+mtrace - malloc tracing
+mtrace - Interpret output from MALLOC_TRACE
+mtype - display contents of an MSDOS file
+mxtar - Wrapper for using GNU tar directly from a floppy disk
+mzip - change protection mode and eject disk on Zip/Jaz drive
+namei - follow a pathname until a terminal point is found
+nano - Nano's ANOther editor, an enhanced free Pico clone
+nautilus - the GNOME File Manager
+nautilus-sendto - convenience application to send a file via email or in...
+nawk - pattern scanning and text processing language
+ncal - displays a calendar and the date of Easter
+ncurses5-config - helper script for ncurses libraries
+neqn - format equations for ascii output
+net - Tool for administration of Samba and remote CIFS servers.
+netkit-ftp - Internet file transfer program
+newgrp - log in to a new group
+ngettext - translate message and choose plural form
+ngettext - translate message and choose plural form
+nice - change process priority
+nice - run a program with modified scheduling priority
+nl - number lines of files
+nm - list symbols from object files
+nm-applet - Network management framework
+nmblookup - NetBIOS over TCP/IP client used to lookup NetBIOS names
+nmcli - command - line tool for controlling NetworkManager
+nm-online - ask NetworkManager whether the network is connected
+nm-tool - utility to report NetworkManager state and devices
+nohup - run a command immune to hangups, with output to a non-tty
+notify-send - a program to send desktop notifications
+nproc - print the number of processing units available
+nroff - emulate nroff command with groff
+nslookup - query Internet name servers interactively
+nstat - network statistics tools.
+nsupdate - Dynamic DNS update utility
+numfmt - Convert numbers from/to human-readable strings
+oakdecode - Decode an OAKT printer stream into human readable form.
+objcopy - copy and translate object files
+objdump - display information from object files.
+oclock - round X clock
+od - dump files in octal and other formats
+ods-server - minimal OBEX server based on obex-data-server
+oldfind - search for files in a directory hierarchy
+omshell - OMAPI Command Shell
+on_ac_power - test whether computer is running on AC power
+openssl - OpenSSL command line tool
+opldecode - Decode a Raster Object (opl) stream into human readabl...
+orca - a scriptable screen reader
+p11-kit - List the PKCS#11 modules provided on the system
+pacat - Play back or record raw or encoded audio streams on a ...
+pacmd - Reconfigure a PulseAudio sound server during runtime
+pactl - Control a running PulseAudio sound server
+padsp - PulseAudio OSS Wrapper
+pager - opposite of more
+pamon - Play back or record raw or encoded audio streams on a ...
+paperconf - print paper configuration information
+paplay - Play back audio files on a PulseAudio sound server
+parec - Play back or record raw or encoded audio streams on a ...
+parecord - Play back or record raw or encoded audio streams on a ...
+parsechangelog - parse Debian changelogs and output them in other formats
+partx - tell the Linux kernel about the presence and numbering...
+passwd - the password file
+passwd - change user password
+passwd - compute password hashes
+paste - merge lines of files
+pasuspender - Temporarily suspend PulseAudio
+patch - apply a diff file to an original
+pathchk - check whether file names are valid or portable
+pax11publish - PulseAudio X11 Credential Utility
+pcimodules - List kernel driver modules available for all currently...
+pdb - the Python debugger
+pdb2.7 - the Python debugger
+pdb3 - the Python debugger
+pdb3.4 - the Python debugger
+pdf2dsc - generate a PostScript page list of a PDF document
+pdf2ps - Ghostscript PDF to PostScript translator
+pdfdetach - Portable Document Format (PDF) document embedded file ...
+pdffonts - Portable Document Format (PDF) font analyzer (version ...
+pdfimages - Portable Document Format (PDF) image extractor (versio...
+pdfinfo - Portable Document Format (PDF) document information ex...
+pdfseparate - Portable Document Format (PDF) page extractor
+pdftocairo - Portable Document Format (PDF) to PNG/JPEG/TIFF/PDF/PS...
+pdftohtml - program to convert PDF files into HTML, XML and PNG im...
+pdftoppm - Portable Document Format (PDF) to Portable Pixmap (PPM...
+pdftops - Portable Document Format (PDF) to PostScript converter...
+pdftotext - Portable Document Format (PDF) to text converter (vers...
+pdfunite - Portable Document Format (PDF) page merger
+peekfd - peek at file descriptors of running processes
+perl - The Perl 5 language interpreter
+perl5.18.2 - The Perl 5 language interpreter
+perlbug - how to submit bug reports on Perl
+perlivp - Perl Installation Verification Procedure
+perlthanks - how to submit bug reports on Perl
+pf2afm - Make an AFM file from Postscript (PFB/PFA/PFM) font fi...
+pfbtopfa - Convert Postscript .pfb fonts to .pfa format using gho...
+pftp - Internet file transfer program
+pg - browse pagewise through text files
+pgrep - look up or signal processes based on name and other at...
+pic - compile pictures for troff or TeX
+pico - Nano's ANOther editor, an enhanced free Pico clone
+piconv - - iconv(1), reinvented in perl
+pinky - lightweight finger
+pkaction - Get details about a registered action
+pkcheck - Check whether a process is authorized
+pkexec - Execute a command as another user
+pkg-config - Return metainformation about installed libraries
+pkill - look up or signal processes based on name and other at...
+pkttyagent - Textual authentication helper
+pl2pm - Rough tool to translate Perl4 .pl files to Perl5 .pm m...
+pldd - list dynamic shared objects loaded into process
+plog - starts up, shuts down or lists the log of PPP connections
+pmap - report memory map of a process
+pm-is-supported - Test whether suspend or hibernate is supported.
+pnm2ppa - convert portable anymap (PNM) images to HP's PPA print...
+pod2html - convert .pod files to .html files
+pod2latex - convert pod documentation to latex format
+pod2man - Convert POD data to formatted *roff input
+pod2text - Convert POD data to formatted ASCII text
+pod2usage - print usage messages from embedded pod docs in files
+podchecker - check the syntax of POD format documentation files
+podselect - print selected sections of pod documentation on standa...
+poff - starts up, shuts down or lists the log of PPP connections
+pon - starts up, shuts down or lists the log of PPP connections
+ppdc - cups ppd compiler
+ppdhtml - cups html summary generator
+ppdi - import ppd files
+ppdmerge - merge ppd files
+ppdpo - ppd message catalog generator
+ppmtolss16 - Convert a PPM to an LSS16 image
+pr - convert text files for printing
+precat - prefix delta compressor for Aspell
+preconv - convert encoding of input files to something GNU troff...
+prename - renames multiple files
+preunzip - prefix delta compressor for Aspell
+prezip - prefix delta compressor for Aspell
+prezip-bin - prefix zip delta word list compressor/decompressor
+print - execute programs via entries in the mailcap file
+printafm - Print the metrics from a Postscript font in AFM format...
+printenv - print all or part of environment
+printerbanner - print large banner on printer
+printer-profile - Profile using X-Rite ColorMunki and Argyll CMS
+printf - formatted output conversion
+printf - format and print data
+prove - Run tests through a TAP harness.
+prtstat - print statistics of a process
+ps2ascii - Ghostscript translator from PostScript or PDF to ASCII
+ps2epsi - generate conforming Encapsulated PostScript
+ps2pdf - Convert PostScript to PDF using ghostscript
+ps2pdf12 - Convert PostScript to PDF 1.2 (Acrobat 3-and-later com...
+ps2pdf13 - Convert PostScript to PDF 1.3 (Acrobat 4-and-later com...
+ps2pdf14 - Convert PostScript to PDF 1.4 (Acrobat 5-and-later com...
+ps2pdfwr - Convert PostScript to PDF without specifying Compatibi...
+ps2ps - Ghostscript PostScript "distiller"
+psed - a stream editor
+psfaddtable - add a Unicode character table to a console font
+psfgettable - extract the embedded Unicode character table from a co...
+psfstriptable - remove the embedded Unicode character table from a con...
+psfxtable - handle Unicode character tables for console fonts
+pstree - display a tree of processes
+pstree.x11 - display a tree of processes
+pstruct - Dump C structures as generated from "cc - g - S" stabs
+ptar - a tar-like program written in perl
+ptardiff - program that diffs an extracted archive against an une...
+ptargrep - Apply pattern matching to the contents of files in a t...
+ptx - produce a permuted index of file contents
+pulseaudio - The PulseAudio Sound System
+purple-remote - Send remote commands to Pidgin/Finch
+pwdx - report current working directory of a process
+py3clean - removes .pyc and .pyo files
+py3compile - byte compile Python 3 source files
+py3versions - print python3 version information
+pybuild - invokes various build systems for requested Python ver...
+pyclean - removes .pyc and .pyo files
+pycompile - byte compile Python source files
+pydoc - the Python documentation tool
+pydoc2.7 - the Python documentation tool
+pydoc3 - the Python documentation tool
+pydoc3.4 - the Python documentation tool
+pygettext - Python equivalent of xgettext(1)
+pygettext2.7 - Python equivalent of xgettext(1)
+pygettext3 - Python equivalent of xgettext(1)
+pygettext3.4 - Python equivalent of xgettext(1)
+pyhtmlizer - pretty-print Python source as HTML
+python - an interpreted, interactive, object-oriented programmi...
+python2 - an interpreted, interactive, object-oriented programmi...
+python2.7 - an interpreted, interactive, object-oriented programmi...
+python3 - an interpreted, interactive, object-oriented programmi...
+python3.4 - an interpreted, interactive, object-oriented programmi...
+python3.4m - an interpreted, interactive, object-oriented programmi...
+python3m - an interpreted, interactive, object-oriented programmi...
+pyvenv-3.4 - create virtual python environments
+pyversions - print python version information
+qdbus - a communication-interface for qt-based applications
+qpdf - PDF transformation software
+qpdldecode - Decode a QPDL stream into human readable form.
+qtchooser - a wrapper used to select between Qt development binary...
+ranlib - generate index to archive.
+rcp - secure copy (remote file copy program)
+rctest - RFCOMM testing
+rdiffdir - compute and apply signatures and diffs to directories
+readelf - Displays information about ELF files.
+readom - read or write data Compact Discs
+recode-sr-latin - convert Serbian text from Cyrillic to Latin script
+recountdiff - recompute patch counts and offsets
+rediff - fix offsets and counts of a hand-edited diff
+remmina - remote desktop client for GNOME desktop environment
+rename - change the name or location of a file
+rename - renames multiple files
+rename.ul - rename files
+rendercheck - simple tests of the X Render extension.
+renice - alter priority of running processes
+reset - terminal initialization
+resize - set environment and terminal settings to current xterm...
+resizecons - change kernel idea of the console size
+resizepart - simple wrapper around the "resize partition" ioctl
+rev - reverse lines of a file or files
+rfcomm - RFCOMM configuration utility
+rgrep - print lines matching a pattern
+rhythmbox - music player and library for tagged files using GStreamer
+rlogin - OpenSSH SSH client (remote login program)
+routef - flush routes
+routel - list routes with pretty output format
+rpcclient - tool for executing client side MS-RPC functions
+rpcgen - an RPC protocol compiler
+rpl8 - Firmware loader for DVD drives
+rsh - OpenSSH SSH client (remote login program)
+rstart - a sample implementation of a Remote Start client
+rstartd - a sample implementation of a Remote Start rsh helper
+rsync - a fast, versatile, remote (and local) file-copying tool
+rtstat - unified linux network statistics
+runcon - run command with specified security context
+run-mailcap - execute programs via entries in the mailcap file
+run-with-aspell - script to help use GNU Aspell as an ispell replacement
+rview - Vi IMproved, a programmers text editor
+s2p - a stream editor
+samba-regedit - ncurses based tool to manage the Samba registry
+samba-tool - Main Samba administration tool.
+savelog - save a log file
+scanimage - scan an image
+scp - secure copy (remote file copy program)
+screendump - dump the contents of a virtual console to stdout
+script - make typescript of terminal session
+scriptreplay - play back typescripts, using timing information
+sdiff - side-by-side merge of file differences
+sdptool - control and interrogate SDP servers
+seahorse - Passwords and Keys
+see - execute programs via entries in the mailcap file
+select-editor - select your default sensible-editor from all installed...
+sensible-browser sensible editing, paging, and web browsing
+sensible-editor - sensible editing, paging, and web browsing
+sensible-pager - sensible editing, paging, and web browsing
+seq - print a sequence of numbers
+service - run a System V init script
+sessreg - manage utmp/wtmp entries for non-init clients
+setarch - change reported architecture in new program environmen...
+setfacl - set file access control lists
+setkeycodes - load kernel scancode-to-keycode mapping table entries
+setleds - set the keyboard leds
+setlogcons - Send kernel messages to console N
+setmetamode - define the keyboard meta key handling
+setpci - configure PCI devices
+setsid - creates a session and sets the process group ID
+setsid - run a program in a new session
+setterm - set terminal attributes
+setxkbmap - set the keyboard using the X Keyboard Extension
+sftp - secure file transfer program
+sg - execute command as different group ID
+sha1pass - Create a SHA1 password hash
+sha1sum - compute and check SHA1 message digest
+sha224sum - compute and check SHA224 message digest
+sha256sum - compute and check SHA256 message digest
+sha384sum - compute and check SHA384 message digest
+sha512sum - compute and check SHA512 message digest
+shasum - Print or Check SHA Checksums
+shotwell - a digital photo organizer
+showconsolefont - Show the current EGA/VGA console screen font
+showfont - font dumper for X font server
+showkey - examine the codes sent by the keyboard
+showrgb - display an rgb color-name database
+shred - overwrite a file to hide its contents, and optionally ...
+shuf - generate random permutations
+simple-scan - Scanning utility
+size - list section sizes and total size.
+skill - send a signal or report process status
+slabtop - display kernel slab cache information in real time
+slogin - OpenSSH SSH client (remote login program)
+slxdecode - Decode a SLX stream into human readable form.
+smbcacls - Set or get ACLs on an NT file or directory names
+smbclient - ftp-like client to access SMB/CIFS resources on servers
+smbcquotas - Set or get QUOTAs of NTFS 5 shares
+smbget - wget-like utility for download files over SMB
+smbpasswd - The Samba encrypted password file
+smbpasswd - change a user's SMB password
+smbspool - send a print file to an SMB printer
+smbtar - shell script for backing up SMB/CIFS shares directly t...
+smbtree - A text based smb network browser
+smproxy - Session Manager Proxy
+snice - send a signal or report process status
+soelim - interpret .so requests in groff input
+sort - sort lines of text files
+spd-conf - A simple tool for basic configuration of Speech Dispat...
+spd-say - send text-to-speech output request to speech-dispatcher
+speaker-test - command-line speaker test tone generator for ALSA
+splain - produce verbose warning diagnostics
+split - split a file into pieces
+splitdiff - separate out incremental patches
+splitfont - extract characters from an ISO-type font.
+sprof - Read and display shared object profiling data
+ssh - OpenSSH SSH client (remote login program)
+ssh-add - adds private key identities to the authentication agent
+ssh-agent - authentication agent
+ssh-argv0 - replaces the old ssh command-name as hostname handling
+ssh-askpass - prompts a user for a passphrase using GNOME
+ssh-copy-id - use locally available keys to authorise logins on a re...
+ssh-import-id - retrieve one or more public keys from a public keyserv...
+ssh-keygen - authentication key generation, management and conversion
+ssh-keyscan - gather ssh public keys
+startx - initialize an X session
+stat - get file status
+stat - display file or file system status
+stdbuf - Run COMMAND, with modified buffering operations for it...
+strace - trace system calls and signals
+strings - print the strings of printable characters in files.
+strip - Discard symbols from object files.
+sudo - execute a command as another user
+sudoedit - execute a command as another user
+sudoreplay - replay sudo session logs
+sum - checksum and count the blocks in a file
+synclient - commandline utility to query and modify Synaptics driv...
+syndaemon - a program that monitors keyboard activity and disables...
+syslinux - install the SYSLINUX bootloader on a FAT filesystem
+syslinux2ansi - converts a syslinux-format screen to pc-ansi
+syslinux-legacy - install the SYSLINUX bootloader on a FAT filesystem
+t1ascii - convert PostScript Type 1 font from binary to ASCII
+t1asm - assemble PostScript Type 1 font
+t1binary - convert PostScript Type 1 font from ASCII to binary
+t1disasm - disassemble PostScript Type 1 font
+t1mac - translate a PFA or PFB PostScript Type 1 font into Mac...
+t1unmac - translate a Mac PostScript Type 1 font into PFA or PFB...
+tabs - set tabs on a terminal
+tac - concatenate and print files in reverse
+tail - output the last part of files
+tap2deb - create Debian packages which wrap .tap files
+tap2rpm - create RPM packages which wrap .tap files
+tapconvert - convert Twisted configurations from one format to another
+taskset - retrieve or set a process's CPU affinity
+tbl - format tables for troff
+tclsh - Simple shell containing Tcl interpreter
+tclsh8.6 - Simple shell containing Tcl interpreter
+tee - duplicating pipe content
+tee - read from standard input and write to standard output ...
+telnet - user interface to the TELNET protocol
+telnet.netkit - user interface to the TELNET protocol
+test - check file types and compare values
+testparm - check an smb.conf configuration file for internal corr...
+tgz - makes a gzip'd tar archive
+thunderbird - thunderbird - Mail User Agent (MUA) and newsgroup/RSS ...
+tic - the terminfo entry-description compiler
+time - overview of time and timers
+time - get time in seconds
+time - run programs and summarize system resource usage
+timedatectl - Control the system time and date
+timeout - run a command with a time limit
+tload - graphic representation of system load average
+toe - table of (terminfo) entries
+top - display Linux processes
+toshset - manipulate bios and hardware settings of Toshiba laptops
+totem - GNOME desktop movie player based on GStreamer
+touch - change file timestamps
+tput - initialize a terminal or query terminfo database
+tr - translate or delete characters
+tracepath - traces path to a network host discovering MTU along th...
+tracepath6 - traces path to a network host discovering MTU along th...
+traceroute6 - traces path to a network host
+transset - Set transparency on a window
+trial - run unit tests
+troff - the troff processor of the groff text formatting system
+truncate - truncate a file to a specified length
+truncate - shrink or extend the size of a file to the specified size
+tset - terminal initialization
+tsort - perform topological sort
+tty - controlling terminal
+tty - print the file name of the terminal connected to stand...
+twistd - run Twisted applications (TACs, TAPs)
+tzselect - select a timezone
+tzselect - view timezones
+ucf - Update Configuration File: preserve user changes in co...
+ucfq - query the ucf database
+ucfr - Update Configuration File Registry: associate packages...
+ucs2any - generate BDF fonts containing subsets of ISO 10646-1 c...
+udisksctl - The udisks command line tool
+ul - do underlining
+unexpand - convert spaces to tabs
+unicode_stop - revert keyboard and console from unicode mode
+uniq - report or omit repeated lines
+unlink - delete a name and possibly the file it refers to
+unlink - call the unlink function to remove the specified file
+unlzma - Compress or decompress .xz and .lzma files
+unopkg - LibreOffice Extension Manager
+unshare - disassociate parts of the process execution context
+unshare - run program with some namespaces unshared from parent
+unwrapdiff - demangle word-wrapped patches
+unxz - Compress or decompress .xz and .lzma files
+unzip - list, test and extract compressed files in a ZIP archive
+unzipsfx - self-extracting stub for prepending to ZIP archives
+updatedb - update a database for mlocate
+UPower - System-wide Power Management
+upower - UPower command line tool
+uptime - Tell how long the system has been running.
+usb-devices - print USB device details
+usb_printerid - prints the ID of the printer on a USB port
+users - print the user names of users currently logged in to t...
+uuidgen - create a new UUID value
+uxterm - X terminal emulator for Unicode (UTF-8) environments
+uz - gunzips and extracts a gzip'd tar'd archive
+vi - Vi IMproved, a programmers text editor
+view - Vi IMproved, a programmers text editor
+viewres - graphical class browser for Xt
+vmstat - Report virtual memory statistics
+volname - return volume name
+vstp - VisioBraille file transferring
+w - Show who is logged on and what they are doing.
+wall - write a message to users
+watch - execute a program periodically, showing output fullscreen
+wc - print newline, word, and byte counts for each file
+wftopfa - Convert a Wadalab base font to Postscript .PFA (or .PF...
+wget - The non-interactive network downloader.
+whatis - display one-line manual page descriptions
+whereis - locate the binary, source, and manual page files for a...
+which - locate a command
+who - show who is logged on
+whoami - print effective userid
+wish - Simple windowing shell
+wish8.6 - Simple windowing shell
+wodim - write data to optical disk media
+wpa_passphrase - Generate a WPA PSK from an ASCII passphrase for a SSID
+w.procps - Show who is logged on and what they are doing.
+write - write to a file descriptor
+write - send a message to another user
+X - a portable, network-transparent window system
+x11perf - X11 server performance test program
+x11perfcomp - X11 server performance comparison program
+x86_64 - change reported architecture in new program environmen...
+xargs - build and execute command lines from standard input
+xauth - X authority file utility
+xbiff - mailbox flag for X
+xcalc - scientific calculator for X
+xclipboard - X clipboard client
+xclock - analog / digital clock for X
+xcmsdb - Device Color Characterization utility for X Color Mana...
+xconsole - monitor system console messages with X
+xcursorgen - create an X cursor file from a collection of PNG images
+xcutsel - interchange between cut buffer and selection
+xdg-mime - command line tool for querying information about file ...
+xdg-open - opens a file or URL in the user's preferred application
+xdg-screensaver - command line tool for controlling the screensaver
+xdg-settings - get various settings from the desktop environment
+xdg-user-dir - Find an XDG user dir
+xditview - display ditroff output
+xdpyinfo - display information utility for X
+xdriinfo - query configuration information of DRI drivers
+xedit - simple text editor for X
+xev - print contents of X events
+xeyes - a follow the mouse X demo
+xfd - display all the characters in an X font
+xfontsel - point and click selection of X11 font names
+xfsinfo - X font server information utility
+xgamma - Alter a monitor's gamma correction through the X server
+xgc - X graphics demo
+xgettext - extract gettext strings from source
+xhost - server access control program for X
+xinit - X Window System initializer
+xinput - utility to configure and test X input devices
+xkbbell - XKB extension user utility
+xkbcomp - compile XKB keyboard description
+xkbevd - XKB event daemon
+xkbprint - print an XKB keyboard description
+xkbvleds - XKB extension user utility
+xkbwatch - XKB extension user utility
+xkill - kill a client by its X resource
+xload - system load average display for X
+xlogo - X Window System logo
+xlsatoms - list interned atoms defined on server
+xlsclients - list client applications running on a display
+xlsfonts - server font list displayer for X
+xmag - magnify parts of the screen
+xman - Manual page display program for the X Window System
+xmessage - display a message or query in a window (X-based /bin/e...
+xmodmap - utility for modifying keymaps and pointer button mappi...
+xmore - plain text display program for the X Window System
+Xorg - X11R7 X server
+xprop - property displayer for X
+xqxdecode - Decode a XQX stream into human readable form.
+xrandr - primitive command line interface to RandR extension
+xrdb - X server resource database utility
+xrefresh - refresh all or part of an X screen
+xset - user preference utility for X
+xsetmode - set the mode for an X Input device
+xsetpointer - set an X Input device as the main pointer
+xsetroot - root window parameter setting utility for X
+xsetwacom - commandline utility to query and modify wacom driver s...
+xsm - X Session Manager
+xstdcmap - X standard colormap utility
+xsubpp - compiler to convert Perl XS code into C code
+xterm - terminal emulator for X
+xvidtune - video mode tuner for Xorg
+xvinfo - Print out X-Video extension adaptor information
+xwd - dump an image of an X window
+xwininfo - window information utility for X
+xwud - image displayer for X
+xxd - make a hexdump or do the reverse.
+xz - Compress or decompress .xz and .lzma files
+xzcat - Compress or decompress .xz and .lzma files
+xzcmp - compare compressed files
+xzdiff - compare compressed files
+xzegrep - search compressed files for a regular expression
+xzfgrep - search compressed files for a regular expression
+xzgrep - search compressed files for a regular expression
+xzless - view xz or lzma compressed (text) files
+xzmore - view xz or lzma compressed (text) files
+yelp - browse system documentation
+yes - output a string repeatedly until killed
+zdump - timezone dumper
+zenity - display GTK+ dialogs
+zip - package and compress (archive) files
+zipcloak - encrypt entries in a zipfile
+zipdetails - display the internal structure of zip files
+zipgrep - search files in a ZIP archive for lines matching a pat...
+zipinfo - list detailed information about a ZIP archive
+zipnote - write the comments in zipfile to stdout, edit comments...
+zipsplit - split a zipfile into smaller zipfiles
+zjsdecode - Decode a ZjStream into human readable form.
+zlib-flate - raw zlib compression program
